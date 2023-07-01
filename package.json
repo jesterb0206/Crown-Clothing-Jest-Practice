@@ -1,0 +1,23 @@
+{
+  "name": "crown-clothing-jest-practice",
+  "version": "1.0.0",
+  "description": "From the Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL) Udemy Course",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest",
+    "jest": "jest --watch *.js"
+  },
+  "keywords": [
+    "JavaScript",
+    "Jest",
+    "Node.js"
+  ],
+  "author": "Bradley Jester",
+  "license": "MIT License",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.2"
+  }
+}
